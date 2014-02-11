@@ -9,7 +9,6 @@ de Fibonacci. F1 = 1, F2 = 1, F3 = 2, etc.
 """
 fibo = [1,1]
 i = 0
-
 num = int(input("Entre com um número: "))
 
 while num > len(fibo):
