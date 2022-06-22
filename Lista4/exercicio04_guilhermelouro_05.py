@@ -33,6 +33,6 @@ for s in palavras:
 			maior_q_4 += 1
 
 
-print "\n\n", "="*80
+print ("\n\n", "="*80)
 print ("%d palavras possuem uma das letras de 'python' e tem mais de 4 caracteres." %maior_q_4)
-print "="*80, "\n\n"
+print ("="*80, "\n\n")

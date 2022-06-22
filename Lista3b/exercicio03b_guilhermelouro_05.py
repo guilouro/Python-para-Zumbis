@@ -4,4 +4,4 @@
 """
 Faça um programa que peça um inteiro positivo e o mostre invertido. Ex.: 1234 gera 4321 
 """
-print str(input('Entre com o número: '))[::-1]
+print (input('Entre com o número: '))[::-1]

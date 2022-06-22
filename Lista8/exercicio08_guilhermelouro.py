@@ -145,14 +145,14 @@ def distintos(palavra):
 v,vpp = verbos(txtB)
 n_magicos = numeros_magicos(txtB)
 
-print '='*150
+print ('='*150)
 
-print "A;%d" %preposicao(txtB)
-print "B;%d" %v
-print "C;%d" %vpp
-print '\n'
-print "D;%s" %(" ").join(ordem_alfabetica(txtB))
-print '\n'
-print "E;%d Números Mágicos | %s" %(len(n_magicos), n_magicos)
+print ("A;%d" %preposicao(txtB))
+print ("B;%d" %v)
+print ("C;%d" %vpp)
+print ('\n')
+print ("D;%s" %(" ").join(ordem_alfabetica(txtB)))
+print ('\n')
+print ("E;%d Números Mágicos | %s" %(len(n_magicos), n_magicos))
 
-print '='*150
+print ('='*150)

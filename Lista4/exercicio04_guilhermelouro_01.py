@@ -22,7 +22,7 @@ for i in range(10):
 		maior = n
 
 lista.sort()
-print "="*40
-print lista
+print ("="*40)
+print (lista)
 print("\nMenor: %d - Maior: %d" %(menor, maior))
-print "="*40
+print ("="*40)
