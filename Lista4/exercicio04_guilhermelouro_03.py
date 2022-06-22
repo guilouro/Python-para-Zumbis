@@ -19,6 +19,6 @@ for i in range(10):
 	lista3.append(lista1[i])
 	lista3.append(lista2[i])
 
-print lista1
-print lista2
-print lista3
+print (lista1)
+print (lista2)
+print (lista3)

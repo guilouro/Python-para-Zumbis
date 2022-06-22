@@ -4,6 +4,6 @@ count = 0
 for i in range(1,10):
 	if not i == 3:
 		for j in range(1, 7):
-			print "oi"
+			print ("oi")
 			count += 1
-print count
+print (count)

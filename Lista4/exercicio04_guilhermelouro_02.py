@@ -25,6 +25,6 @@ lista.sort()
 par.sort()
 impar.sort()
 
-print "\nLISTA = ", lista
-print "PAR   = ", par
-print "IMPAR = ", impar, "\n"
+print ("\nLISTA = ", lista)
+print ("PAR   = ", par)
+print ("IMPAR = ", impar, "\n")

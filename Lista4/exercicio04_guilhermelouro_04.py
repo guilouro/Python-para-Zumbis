@@ -27,4 +27,4 @@ for s in palavras:
 	if p[0] in "python":
 		in_python.append(s);
 
-print "\n\n",in_python,"\n\n"
+print ("\n\n",in_python,"\n\n")

@@ -16,4 +16,4 @@ while n > 1:
 	else:
 		d += 1
 
-print divisores
+print (divisores)

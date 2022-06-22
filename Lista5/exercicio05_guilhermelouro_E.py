@@ -57,4 +57,4 @@ for i in phones:
 	if PhoneVerification(i):
 		count += 1
 
-print count
+print (count)
